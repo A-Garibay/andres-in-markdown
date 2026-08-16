@@ -10,12 +10,13 @@ As you could tell by my letter, music is something very important to me. As far 
 
 [Here is a playlist of my most recent repeats, and some past ones!](https://open.spotify.com/playlist/2BwHn4ATMn3DPE5GFr8xkC?si=KnZRbw7IRUWGA-WSVvAUaA)
 
-For another example of my genre tastes, here's a table on 5 songs I like of different genres.
+For another example of my genre tastes, here's a table on 6 songs I like of different genres.
 
 ||Genre|Rating (⭐️⭐️⭐️⭐️⭐️)|Explaination|
 |-|-|-|-|
-|SAMBA TEMPERADO 2015 by Yuji Ohno|Latin Jazz|⭐️⭐️⭐️⭐️|
-|Tavern by Netherwalker|Deathcore|⭐️⭐️⭐️|
-|Lost by T-Dre, Delux, Cali Life Style|Rap|⭐️⭐️⭐️⭐️⭐️|
-|Your Man by Josh Turner|Country|⭐️⭐️⭐️|
-|死ぬのがいいわ (Shinunoga E-Wa) by Fujii Kaze|R&B|⭐️⭐️⭐️⭐️|
+|SAMBA TEMPERADO 2015 by Yuji Ohno|Latin Jazz|⭐️⭐️⭐️⭐️⭐️|Ever since I've heard this song I've been in love with it (mostly the trombone solo).
+|Tavern by Netherwalker|Deathcore|⭐️⭐️⭐️|While I like the song, the lyrics are unintelligible.
+|Lost by T-Dre, Delux, Cali Life Style|Rap|⭐️⭐️⭐️⭐️|Fell in love with this song after my dad played it in the car on a drive with my Tío.
+|Your Man by Josh Turner|Country|⭐️⭐️⭐️|One of the few country songs I listen to (and like) because of my mom.
+|死ぬのがいいわ (Shinunoga E-Wa) by Fujii Kaze|R&B|⭐️⭐️⭐️⭐️|I heard this song after it started getting popular online and just loved it.
+|Oops!...I Did It Again by Britney Spears|Pop|⭐️⭐️⭐️⭐️⭐️|This is just a really good song. I don't think I need to explain why.
