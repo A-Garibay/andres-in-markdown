@@ -12,12 +12,12 @@ As you could tell by my letter, music is something very important to me. As far 
 
 For another example of my genre tastes, here's a table on 6 songs I like of different genres.
 
-||Genre|Rating (⭐️⭐️⭐️⭐️⭐️)|Explaination|
-|-|-|-|-|
-|<strong style="color:RGB(255,0,0)">SAMBA</stong> <strong style="color:RGB(255,255,255)">TEMPERADO</stong> <strong style="color:RGB(0,255,0)">2015</stong>  <strong style="color:RGB(100,100,100)">by Yuji Ohno</stong>|Latin Jazz|⭐️⭐️⭐️⭐️⭐️|Ever since I've heard this song I've been in love with it (mostly the trombone solo).
-|<strong style="color:RGB(80,80,80)">Tavern</stong> <strong style="color:RGB(100,100,100)">by Netherwalker</stong>|Deathcore|⭐️⭐️⭐️|While I like the song, the lyrics are unintelligible.
-|Lost by T-Dre, Delux, Cali Life Style|Rap|⭐️⭐️⭐️⭐️|Fell in love with this song after my dad played it in the car on a drive with my Tío.
-|Your Man by Josh Turner|Country|⭐️⭐️⭐️|One of the few country songs I listen to (and like) because of my mom.
-|死ぬのがいいわ (Shinunoga E-Wa) by Fujii Kaze|R&B|⭐️⭐️⭐️⭐️|I heard this song after it started getting popular online and just loved it.
-|Oops!...I Did It Again by Britney Spears|Pop|⭐️⭐️⭐️⭐️⭐️|This is just a really good song. I don't think I need to explain why.
+||Song Name|Genre|Rating (⭐️⭐️⭐️⭐️⭐️)|Explaination|
+|-|-|-|-|-|
+|![Album 1](image.png)|<strong style="color:RGB(255,0,0)">SAMBA</stong> <strong style="color:RGB(255,255,255)">TEMPERADO</stong> <strong style="color:RGB(0,255,0)">2015</stong>  <strong style="color:RGB(120,120,120)">by Yuji Ohno</stong>|Latin Jazz|⭐️⭐️⭐️⭐️⭐️|Ever since I've heard this song I've been in love with it (mostly the trombone solo).
+|![Album 2](image-1.png)|<strong style="color:RGB(80,80,80)">Tavern</stong> <strong style="color:RGB(120,120,120)">by Netherwalker</stong>|Deathcore|⭐️⭐️⭐️|While I like the song, the lyrics are unintelligible.
+|![Album 3](image-2.png)|Lost by T-Dre, Delux, Cali Life Style|Rap|⭐️⭐️⭐️⭐️|Fell in love with this song after my dad played it in the car on a drive with my Tío.
+|![Album 4](image-3.png)|Your Man by Josh Turner|Country|⭐️⭐️⭐️|One of the few country songs I listen to (and like) because of my mom.
+|![Album 5](image-4.png)|死ぬのがいいわ (Shinunoga E-Wa) by Fujii Kaze|R&B|⭐️⭐️⭐️⭐️|I heard this song after it started getting popular online and just loved it.
+||Oops!...I Did It Again by Britney Spears|Pop|⭐️⭐️⭐️⭐️⭐️|This is just a really good song. I don't think I need to explain why.
 
