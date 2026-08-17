@@ -17,7 +17,7 @@ For another example of my genre tastes, here's a table on 6 songs I like of diff
 |![Album 1](image.png)|<strong style="color:RGB(255,0,0)">**SAMBA**</strong> <strong style="color:RGB(255,255,255)">**TEMPERADO**</strong> <strong style="color:RGB(0,255,0)">**2015**</strong>  <strong style="color:RGB(120,120,120)">by Yuji Ohno</strong>|Latin Jazz|⭐️⭐️⭐️⭐️⭐️|Ever since I've heard this song I've been in love with it (mostly the trombone solo).
 |![Album 2](image-1.png)|<strong style="color:RGB(80,80,80)">**Tavern**</strong> <strong style="color:RGB(120,120,120)"> by Netherwalker </strong>|Deathcore|⭐️⭐️⭐️|While I like the song, the lyrics are unintelligible.
 |![Album 3](image-2.png)|<strong style="color:RGB(0, 42, 84)">**Lost**</strong> <strong style="color:RGB(120,120,120)"> by T-Dre, Delux, Cali Life Style</strong>|Rap|⭐️⭐️⭐️⭐️|Fell in love with this song after my dad played it in the car on a drive with my Tío.
-|![Album 4](image-3.png)|**Your Man** by Josh Turner|Country|⭐️⭐️⭐️|One of the few country songs I listen to (and like) because of my mom.
+|![Album7 4](image-3.png)|**Your Man** by Josh Turner|Country|⭐️⭐️⭐️|One of the few country songs I listen to (and like) because of my mom.
 |![Album 5](image-4.png)|<strong style="color:RGB(169, 169, 169)">**死ぬのがいいわ (Shinunoga E-Wa)**</strong> <strong style="color:RGB(120, 120, 120)">by Fujii Kaze </strong>|R&B|⭐️⭐️⭐️⭐️|I heard this song after it started getting popular online and just loved it.
 ||**Oops!...I Did It Again** by Britney Spears|Pop|⭐️⭐️⭐️⭐️⭐️|This is just a really good song. I don't think I need to explain why.
 
