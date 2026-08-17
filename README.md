@@ -14,7 +14,7 @@ For another example of my genre tastes, here's a table on 6 songs I like of diff
 
 ||Genre|Rating (⭐️⭐️⭐️⭐️⭐️)|Explaination|
 |-|-|-|-|
-|SAMBA TEMPERADO 2015 by Yuji Ohno|Latin Jazz|⭐️⭐️⭐️⭐️⭐️|Ever since I've heard this song I've been in love with it (mostly the trombone solo).
+|<strong style="color:RGB(255,0,0)">SAMBA</stong> <strong style="color:RGB(255,255,255)">TEMPERADO</stong> <strong style="color:RGB(0,255,0)">2015</stong>  <strong style="color:RGB(0,0,0)">by Yuji Ohno</stong>|Latin Jazz|⭐️⭐️⭐️⭐️⭐️|Ever since I've heard this song I've been in love with it (mostly the trombone solo).
 |Tavern by Netherwalker|Deathcore|⭐️⭐️⭐️|While I like the song, the lyrics are unintelligible.
 |Lost by T-Dre, Delux, Cali Life Style|Rap|⭐️⭐️⭐️⭐️|Fell in love with this song after my dad played it in the car on a drive with my Tío.
 |Your Man by Josh Turner|Country|⭐️⭐️⭐️|One of the few country songs I listen to (and like) because of my mom.
