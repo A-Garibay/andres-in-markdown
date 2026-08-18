@@ -1,23 +1,31 @@
 # Me in Markdown - 2026
 ## Letter to Mr. Aiello
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hello! My name is Andres Garibay, and I am starting my sophomore year. A few of my favorite things are the movie *The Lord of the Rings: The Fellowship of the Ring* and the book *The Shining*. My favorite part of school is band, whether it's learning new music or a new instrument. While I try to balance school and band, it can be hard sometimes. I do also try to make sure everyone has fun and understands what is going on in band and the class we are in at the time.
 
-Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.
+Over the summer, I have learned how to play the French horn and mellophone, while also learning how to read treble clef. Learning mellophone would also be my personal achievement, because I learned not only how to play it, but also how to play the show for the new marching season. A fun fact about me is that I play about 14 instruments.
 
-Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus.
-## Recent Replays
-As you could tell by my letter, music is something very important to me. As far as genres go, I don't care as long as I find the song good. I do mostly stay with Rock and Metal, but those aren't the only genres I like.
+4 of them are shown below:
+
+Timpani:
+
+<img src=image-7.png width="15%">
+
+Euphonium / Baritone:
+
+<img src=image-8.png width="15%">
+
+Piano:
+
+<img src=image-9.png width="15%">
+
+Trombone:
+
+<img src=image-10.png width="15%">
+
+Outside of school, I do marching band, as I previously mentioned. I enjoy it a lot, and it’s mostly because of the competitions. Other things I enjoy are crocheting and writing music. I have been crocheting since 7th grade, and I started writing music last year. My best summer memory this year is the last day of band camp. The upperclassmen threw water balloons at us during the drill down, and it turned into a huge water-balloon fight. My main goals this year are to get straight A’s and get at least a 4 on all my AP tests. My other goal for this year is to become Drum Major for next year's season by the tryouts next semester. I mainly want to do this because I want to major in music and become a band director in the future. Band has taught me important lessons and helped me become a better student in school and a better leader when it comes to that.
 
 [Here is a playlist of my most recent repeats, and some past ones!](https://open.spotify.com/playlist/2BwHn4ATMn3DPE5GFr8xkC?si=KnZRbw7IRUWGA-WSVvAUaA)
 
 For another example of my genre tastes, here's a table on 6 songs I like of different genres.
 
-||Song Name|Genre|Rating (⭐️⭐️⭐️⭐️⭐️)|Explaination|
-|-|-|-|-|-|
-|![Album 1](image.png)|<strong style="color:RGB(255,0,0)">**SAMBA**</strong> <strong style="color:RGB(255,255,255)">**TEMPERADO**</strong> <strong style="color:RGB(0,255,0)">**2015**</strong>  <strong style="color:RGB(120,120,120)">by Yuji Ohno</strong>|Latin Jazz|⭐️⭐️⭐️⭐️⭐️|Ever since I've heard this song I've been in love with it (mostly the trombone solo).
-|![Album 2](image-1.png)|<strong style="color:RGB(80,80,80)">**Tavern**</strong> <strong style="color:RGB(120,120,120)"> by Netherwalker </strong>|Deathcore|⭐️⭐️⭐️|While I like the song, the lyrics are unintelligible.
-|![Album 3](image-2.png)|<strong style="color:RGB(0, 42, 84)">**Lost**</strong> <strong style="color:RGB(120,120,120)"> by T-Dre, Delux, Cali Life Style</strong>|Rap|⭐️⭐️⭐️⭐️|Fell in love with this song after my dad played it in the car on a drive with my Tío.
-|![Album7 4](image-3.png)|**Your Man** by Josh Turner|Country|⭐️⭐️⭐️|One of the few country songs I listen to (and like) because of my mom.
-|![Album 5](image-4.png)|<strong style="color:RGB(169, 169, 169)">**死ぬのがいいわ (Shinunoga E-Wa)**</strong> <strong style="color:RGB(120, 120, 120)">by Fujii Kaze </strong>|R&B|⭐️⭐️⭐️⭐️|I heard this song after it started getting popular online and just loved it.
-||**Oops!...I Did It Again** by Britney Spears|Pop|⭐️⭐️⭐️⭐️⭐️|This is just a really good song. I don't think I need to explain why.
-
+![table.image](image-6.png)
