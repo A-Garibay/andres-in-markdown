@@ -8,19 +8,19 @@ Over the summer, I have learned how to play the French horn and mellophone, whil
 
 - **Timpani:**
 
-<img src=image-7.png width="15%">
+![timpani](timpani.png)
 
 - **Euphonium / Baritone:**
 
-<img src=image-8.png width="15%">
+![euphonium/baritone](euph-bari.jpeg)
 
 - **Piano:**
 
-<img src=image-9.png width="15%">
+![piano](piano.jpeg)
 
 - **Trombone:**
 
- <img src=image-10.png width="15%">
+![trombone](bone.jpeg)
 
 Outside of school, I do marching band, as I previously mentioned. I enjoy it a lot, and it's mostly because of the competitions. Other things I enjoy are crocheting and writing music. I have been crocheting since 7th grade, and I started writing music last year. My best summer memory this year is the last day of band camp. The upperclassmen threw water balloons at us during the drill down, and it turned into a huge water-balloon fight. My main goals this year are to get straight A's and get at least a 4 on all my AP tests. My other goal for this year is to become Drum Major for next year's season by the tryouts next semester. I mainly want to do this because I want to major in music and become a band director in the future. Band has taught me important lessons and helped me become a better student in school and a better leader when it comes to that.
 
